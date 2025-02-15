@@ -1,4 +1,4 @@
-<h1>Random number generation</h1>
+<h1>Random number generator</h1>
 
 <h2>About</h2>
 <p>Project used to learn programming logic in Alura courses</p>
